@@ -1,0 +1,23 @@
+{
+  "name": "pwa-servidor-node",
+  "version": "1.0.0",
+  "description": "Aplicativo de anotações",
+  "main": "service-worker.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasdiego21/pwa-servidor-node.git"
+  },
+  "keywords": [],
+  "author": "Jonas Diego Rodrigues Martins Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasdiego21/pwa-servidor-node/issues"
+  },
+  "homepage": "https://github.com/jonasdiego21/pwa-servidor-node#readme",
+  "dependencies": {
+    "node-autostart": "^3.0.3"
+  }
+}
